@@ -52,7 +52,7 @@ Devlog 1:
 
 Added a Cube Shrink and Enlarge ability
 
-E - Shrink
+E - Shrink (CURRENTLY NOT AVAILABLE)
 
 T - Enlarge
 
