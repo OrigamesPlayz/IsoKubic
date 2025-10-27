@@ -46,3 +46,18 @@ Esc - Pause
 "Quit" - Close game
 
 "Settings" - Opens settings ⚠️WARNING! - this button breaks positioning and pressing it will result in the buttons messed up⚠️
+
+
+Devlog 1:
+
+Added a Cube Shrink and Enlarge ability
+
+E - Shrink
+
+T - Enlarge
+
+Spinning maple leaf inside player
+Main menu and win screen has falling leaves
+To win roll into the Bucky Ball
+A kill cube which is red and glowy
+All powerups now have a powerup Cube dedicated to each one of them
